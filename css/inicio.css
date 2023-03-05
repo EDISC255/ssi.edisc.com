@@ -1,0 +1,30 @@
+body{
+    text-transform: uppercase;   
+}
+
+#prinsipal{
+    color: #000;
+    background: blue;
+    height: 600px;
+    border: solid 1px;
+}
+
+#prinsipal #encabezado{
+    border: solid 1px;
+    background-color:   #9bf1e3 ;
+}
+
+#prinsipal #encabezado h1{
+    font-size: 25px;
+    text-align: center;
+
+}
+
+#prinsipal #contenido p{
+    border: solid 2px ;
+    height: 200px;
+    width: 150px;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+}
